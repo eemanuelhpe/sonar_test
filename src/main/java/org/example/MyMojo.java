@@ -39,6 +39,8 @@ public class MyMojo
      * @required
      */
     private File outputDirectory;
+    boolean var1;
+    public boolean var2;
 
     public void execute()
         throws MojoExecutionException
