@@ -41,6 +41,8 @@ public class MyMojo
     private File outputDirectory;
     boolean var1;
     public boolean var2;
+    public boolean var3;
+    public boolean var4;
 
     public void execute()
         throws MojoExecutionException
